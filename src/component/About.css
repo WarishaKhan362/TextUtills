@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+   
+    height: 100vh;
+    display: flex;
+}
+.box1{
+    height: 100vh;
+  
+}
+.div1{
+    border: none;
+    height: 420px;
+    margin-top: 40%;
+}
+.card1{
+    
+}
+.div2{
+    height: 300px;
+    margin-top: 40px;
+}
+.card{
+    border: none;
+}
+.card2{
+    width: 250px;
+    height: 300px;
+}
+.about{
+    color: red;
+    padding: 10px;
+    background-color: #F4ECEC;
+    border-radius: 10px;
+}
+.box2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.icon1{
+    color: red;
+    width: 40px;
+    height: 40px;
+}
+.icon1:hover{
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+}
